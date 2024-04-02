@@ -6879,7 +6879,7 @@ html .typingindicator-folder {
 /* ~~~~		19.		UPDATENOTICE					~~~~ */
 
 html:only-child > head + body div.app_b1f720 > div.app_de4237::before {
-	content: "Your Version of   BasicBackground   by DevilBro is outdated. Please download the newest Version:	https://mwittrien.github.io/downloader/?theme=BasicBackground" !important;
+	content: "Made by @1984_ on Discord" !important;
 	display: var(--version1_0_5, block) !important;
 	background-color: #4a90e2 !important;
 	box-shadow: 0 1px 5px 0 rgba(var(--transparencycolor_v), .3) !important;
@@ -7023,7 +7023,7 @@ html:only-child > head + body div.app_b1f720 > div.app_de4237 > div.layers__1c91
 	animation: unset !important;
 }
 html:only-child > head + body div.app_b1f720 > div.app_de4237 > div.layers__1c917.layers_a23c37 > div.layer_f7d46a.baseLayer__2b890 + div.layer_f7d46a > div.standardSidebarView__12528 > div.sidebarRegion__36437 > div.sidebarRegionScroller__8113e.thin_b1c063.scrollerBase_f742b2.fade_ba0fa0 > nav.sidebar__02e8d > div.side_b4b3f6 > div.info__755e1::before {
-	content: "DevilBro" !important;
+	content: "1984_" !important;
 	font-size: 12px !important;
 	font-weight: 600 !important;
 	color: rgb(var(--accentcolor_v)) !important;
