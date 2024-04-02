@@ -380,7 +380,7 @@ body::after {
 .backdrop__7b2e0,
 .backdrop__1a911 {
 	background: transparent !important;
-	opacity: 1 !important;
+	opacity: 0.4 !important;
 	animation: none !important;
 }
 .uploadArea_c7493d::before,
