@@ -6861,7 +6861,7 @@ html .typingindicator-folder {
 /* ~~~~		19.		UPDATENOTICE					~~~~ */
 
 html:only-child > head + body div.app_b1f720 > div.app_de4237::before {
-	content: "Made by @1984_ on Discord" !important;
+	content: "INDEV THEME BY @1984_" !important;
 	display: var(--version1_0_5, block) !important;
 	background-color: #4a90e2 !important;
 	box-shadow: 0 1px 5px 0 rgba(var(--transparencycolor_v), .3) !important;
