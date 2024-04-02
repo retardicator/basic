@@ -6,7 +6,7 @@
 :root {
 	--transparencycolor:			0, 0, 0;
 	--transparencyalpha:			0.15;
-	--messagetransparency:			0.7;
+	--messagetransparency:			0.5;
 	--guildchanneltransparency:		0.15;
 	--chatinputtransparency:		0.0;
 	--memberlisttransparency:		0.0;
