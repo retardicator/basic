@@ -11,6 +11,8 @@
 	--chatinputtransparency:		0.25;
 	--memberlisttransparency:		0.25;
 	--accentcolor:				47, 94, 60;
+	--nitrocolor:                           255, 115, 250;
+	--currentColor				var(--nitrocolor);
 	
 	--settingsicons:			1;
 	--font:					"gg sans", "Noto Sans";
@@ -2460,6 +2462,13 @@ button.button_ae40a4.enabled__214db:hover svg {
 .accountProfileCard__744d8 {								/* accountsettings			container							*/
 	background: transparent;
 	box-shadow: 0 0 0 1px rgba(var(--transparencycolor_v), .3), 0 2px 10px 0 rgba(var(--transparencycolor_v), .3);
+}
+
+.profileBadge__3cc69 {
+	background-color: nitrocolor;
+}
+.profileBadge22_e4866d {
+	background-color: nitrocolor;
 }
 .accountProfileCard__744d8::before,
 .accountProfileCard__744d8::after {
