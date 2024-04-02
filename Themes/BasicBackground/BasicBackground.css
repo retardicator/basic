@@ -6,11 +6,11 @@
 :root {
 	--transparencycolor:			0, 0, 0;
 	--transparencyalpha:			0.15;
-	--messagetransparency:			0.3;
+	--messagetransparency:			0.8;
 	--guildchanneltransparency:		0.15;
 	--chatinputtransparency:		0.5;
 	--memberlisttransparency:		0.4;
-	--accentcolor:				84, 177, 84;
+	--accentcolor:				67, 122, 83;
 	
 	--settingsicons:			1;
 	--font:					"gg sans", "Noto Sans";
