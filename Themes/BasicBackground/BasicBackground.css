@@ -1,5 +1,3 @@
-/* DevilBro */
-
 @import url(https://raw.githubusercontent.com/retardicator/basic/master/Themes/_res/SettingsIcons.css);
 @import url(https://raw.githubusercontent.com/retardicator/basic/master/Themes/BlurpleRecolor/BlurpleRecolor.css);
 
@@ -6849,7 +6847,7 @@ html .typingindicator-folder {
 
 /* ~~~~		19.		UPDATENOTICE					~~~~ */
 
-html:only-child > head + body div.app_b1f720 > div.app_de4237::before {
+/* html:only-child > head + body div.app_b1f720 > div.app_de4237::before {
 	content: "IN-DEV THEME - BY @1984_" !important;
 	display: var(--version1_0_5, block) !important;
 	background-color: #ff0000 !important;
@@ -6881,7 +6879,7 @@ html:only-child > head + body div.app_b1f720 > div.app_de4237::before {
 	z-index: 101 !important;
 	pointer-events: none !important;
 }
-
+*/
 
 /* ~~~~		20.		WATERMARK					~~~~ */
 
