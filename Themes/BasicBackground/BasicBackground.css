@@ -6,7 +6,7 @@
 :root {
 	--transparencycolor:			0, 0, 0;
 	--transparencyalpha:			0.15;
-	--messagetransparency:			0.5;
+	--messagetransparency:			0.7;
 	--guildchanneltransparency:		0.15;
 	--chatinputtransparency:		0.0;
 	--memberlisttransparency:		0.0;
@@ -23,7 +23,7 @@
 	--textdarker: 				125, 125, 125;
 	--textdarkest: 				90, 90, 90;
 	
-	--background:				url(https://wallpapers.com/images/hd/plants-iphone-ni4dfube0cp7097j.jpg);
+	--background:				url(https://cdn.discordapp.com/attachments/1165432018851598397/1224804215512240128/image.jpg?ex=661ed2d0&is=660c5dd0&hm=481d37a6ed6b1bce25d02c1d41fca09e26242241e6331b7efb359cc152f3a7a7&);
 	--backgroundposition:			center;
 	--backgroundsize:			cover;
 	--backgroundblur:			0;
