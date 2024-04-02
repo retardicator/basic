@@ -6,10 +6,10 @@
 :root {
 	--transparencycolor:			0, 0, 0;
 	--transparencyalpha:			0.15;
-	--messagetransparency:			0.5;
+	--messagetransparency:			0.3;
 	--guildchanneltransparency:		0.15;
-	--chatinputtransparency:		0.0;
-	--memberlisttransparency:		0.0;
+	--chatinputtransparency:		0.5;
+	--memberlisttransparency:		0.4;
 	--accentcolor:				84, 177, 84;
 	
 	--settingsicons:			1;
